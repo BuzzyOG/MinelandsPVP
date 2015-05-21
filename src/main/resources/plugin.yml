@@ -1,0 +1,7 @@
+main: com.minelands.pvp.PVPCore
+name: MinelandsPVP
+
+version: 1.0
+description: MinelandsPVP
+
+depend: [MinelandsAPI]
